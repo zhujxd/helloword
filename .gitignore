@@ -1,0 +1,16 @@
+.settings/
+.project/
+.classpath/
+
+.idea/
+*.iml
+
+target/
+
+*.log
+.project
+.classpath
+bin/
+/luna-profiles/dictionarys/*.json
+/luna-profiles/commons/*.json
+
